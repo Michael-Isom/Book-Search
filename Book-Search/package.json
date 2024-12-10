@@ -1,5 +1,5 @@
 {
-  "name": "googlebooks-app",
+  "name": "Book-Search",
   "version": "1.0.0",
   "description": "",
   "main": "server/server.js",
@@ -10,7 +10,9 @@
     "seed": "cd server && npm run seed",
     "seed:clear": "cd server && npm run seed:clear",
     "build": "concurrently \"cd server && npm run build\" \"cd client && npm run build\"",
-    "render-build": "npm install && npm run build"
+    "render-build": "npm install && npm run build",
+    "predeploy": "npm run build --prefix client",
+    "deploy": "gh-pages -d client/dist"
   },
   "keywords": [],
   "author": "",
