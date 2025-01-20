@@ -51,3 +51,6 @@ Technologies Used
 	•	PostgreSQL: Database for managing book search data.
 	•	React: Frontend library for building the user interface.
 	•	Express.js: Backend framework for handling API requests.
+<img width="1728" alt="Screenshot 2025-01-19 at 8 01 00 PM" src="https://github.com/user-attachments/assets/67437293-eef6-44bf-9a2d-4dd5cb7dd837" />
+<img width="1728" alt="Screenshot 2025-01-19 at 8 00 47 PM" src="https://github.com/user-attachments/assets/b5ec5526-bddc-46c5-bc3e-bb8c99fc24c8" />
+<img width="1728" alt="Screenshot 2025-01-19 at 8 01 17 PM" src="https://github.com/user-attachments/assets/0b6bd2d2-7500-453b-b1fb-4f920cc7cb45" />
