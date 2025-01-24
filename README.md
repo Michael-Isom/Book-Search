@@ -20,6 +20,8 @@ Table of Contents
 
 Prerequisites
 
+1. clone repository 
+
 Make sure to install Node.js and npm from Node.js Official Website.
 
 Installation
